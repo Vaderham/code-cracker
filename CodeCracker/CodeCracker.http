@@ -1,0 +1,6 @@
+@CodeCracker_HostAddress = http://localhost:5217
+
+GET {{CodeCracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
